@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there, I'm Ángel Gómez González
 
-<!--
-**Anhel02/anhel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm a third-year Physics student passionate about experimentation and programming. This is my GitHub repository, where I share some of my projects and works related to experimental physics and programming.
+About Me
 
-Here are some ideas to get you started:
+    👨‍🎓 Third-year Physics student at Universidad Europea de Valencia
+    🌱 Interested in experimental physics, instrumentation, and data analysis
+    💻 Programming experience: Python, C++, R, Mathematica, and LaTeX
+    📊 Enjoy exploring data and visualizing it creatively
+    🚀 Aspiring experimental physicist in the future
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+
+You can find me on:
+
+    📧 Email: gomezgonzalezangel2@gmail.com
+    💼 LinkedIn: Ángel Gómez González
+
+Thanks for visiting my profile!
