@@ -10,6 +10,10 @@ Hello! 👋 I'm a third-year Physics student passionate about experimentation an
 - 📊 Enjoy exploring data and visualizing it creatively
 - 🚀 Aspiring experimental physicist in the future
 
+## Projects
+
+- lab.py : Python module I've created to facilitate my analysis for my laboratory reports.
+
 ## Contact
 
 You can find me on:
