@@ -80,10 +80,10 @@ class lin_reg:
             delta_y_fit = np.append(delta_y_fit, np.sqrt((delta_m*x_fit[i])**2 + delta_n + (m*self.delta_x)**2 + self.delta_y**2))
         return x_fit,delta_x_fit,y_fit,delta_y_fit
         
-    def r2(self):
+    def r(self):
         '''
         Calculating the correlation coefficient for linear regressions.
         '''
         N = len(self.x)
-        r2 = (N * np.sum(self.x * self.y) - np.sum(self.x) * np.sum(self.y))/(np.sqrt((N * np.sum(self.x**2) - (np.sum(self.x))**2) * (N * np.sum(self.y**2) - (np.sum(self.y))**2)))
-        return r2
+        r = (N * np.sum(self.x * self.y) - np.sum(self.x) * np.sum(self.y))/(np.sqrt((N * np.sum(self.x**2) - (np.sum(self.x))**2) * (N * np.sum(self.y**2) - (np.sum(self.y))**2)))
+        return r
