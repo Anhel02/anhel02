@@ -15,14 +15,14 @@ def lab_round(numbers, uncertainties):
     rounded_uncertainties = []
     
     for number, uncertainty in zip(numbers, uncertainties):
-        # Contar la cantidad de SF tanto de los valores como de las incertidumbres
+        # Count the number of SFs both for the values and the uncertainties.
         num_SF = len(str(abs(number)).rstrip('0').rstrip('.'))
         uncertainty_SF = len(str(abs(uncertainty)).rstrip('0').rstrip('.'))
         
         # Counting the number of Significant Figures (SFs) in both the values and the uncertainties.
         decimal_places = min(num_SF, uncertainty_SF)
         
-        # Redondear el número y la incertidumbre
+        # Round the number and the uncertainty.
         rounded_number = round(number, decimal_places)
         rounded_uncertainty = round(uncertainty, decimal_places)
         
