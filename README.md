@@ -1,6 +1,6 @@
 # Hi there, I'm Ángel Gómez González
 
-Hello! 👋 I'm a third-year Physics student passionate about experimentation and programming. This is my GitHub repository, where I share some of my projects and works related to experimental physics and programming.
+I'm a forth-year Physics student passionate about programming. This is my GitHub repository, where I share some of my projects and works related to physics and programming.
 
 ## About Me
 
