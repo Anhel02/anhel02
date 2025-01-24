@@ -4,11 +4,10 @@ Hello! 👋 I'm a third-year Physics student passionate about experimentation an
 
 ## About Me
 
-- 👨‍🎓 Third-year Physics student at Universidad Europea de Valencia
-- 🌱 Interested in experimental physics, instrumentation, and data analysis
-- 💻 Programming experience: Python, C++, R, Mathematica, and LaTeX
-- 📊 Enjoy exploring data and visualizing it creatively
-- 🚀 Aspiring experimental physicist in the future
+- 👨‍🎓 Forth-year Physics student at Universidad Europea de Valencia.
+- 🌱 Interested in teorethical and particle physics, machine learning and AI.
+- 💻 Programming experience: Python, C++, R, Mathematica, and LaTeX.
+- 🚀 Aspiring researcher in the future.
 
 ## Projects
 
