@@ -11,7 +11,6 @@ I'm a fourth-year Physics student passionate about programming. This is my GitHu
 
 ## Projects
 
-- lab.py  : Python module I've created to facilitate my analysis for my laboratory reports.
 - [sudoq](https://github.com/Anhel02/SudoQ)   : Qiskit implementation of Grover's algorithm to solve a 4x4 sudoku.
 
 ## Contact
