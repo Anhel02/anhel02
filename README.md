@@ -11,7 +11,7 @@ I'm a Advanced Physics Master's student passionate about programming. This is my
 
 ## Projects
 
-- [qc_dirac](https://github.com/Anhel02/qc_dirac)  : Final Degree Project (TFG) — quantum simulation of the Dirac equation; hydrogen ground-state energy estimation.
+- [qc_dirac](https://github.com/Anhel02/qc_dirac)  : Bachelor's thesis — quantum simulation of the Dirac equation; hydrogen ground-state energy estimation.
 - [sudoq](https://github.com/Anhel02/SudoQ)   : Qiskit implementation of Grover's algorithm for solving a 4x4 sudoku.
 
 ## Contact
